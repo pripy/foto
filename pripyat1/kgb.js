@@ -1,0 +1,17 @@
+document.write('<i>https://imgbb.su/images/2022/02/07/9d93730ddb7fb894d3911ec8851560db.jpg</i><b>при5 кгб 01</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/e8b2d13f15f7ee30a4aa9a35999bcbbe.jpg</i><b>при5 кгб 02</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/288e0ef301fa0b08b4ff013e42c5a036.jpg</i><b>при5 кгб 03</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/a57f20f846431f888ca4124681add0f7.jpg</i><b>при5 кгб 04</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/19207fd823ac97251955c86a12385074.jpg</i><b>при5 кгб 05</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/1835d45ec6f5a8cfa1230be200bff622.jpg</i><b>при5 кгб 06</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/3a0697215d37c84ac5db50d196ee85cb.jpg</i><b>при5 кгб 07</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/47f4b3fef24340b402d768c5fa1e3d66.jpg</i><b>при5 кгб 08</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/9bc9d0ac622ce657fa80449a2b4b9a96.jpg</i><b>при5 кгб 09</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/16c7cfbe06604ee3fbdeab7a52a10105.jpg</i><b>при5 кгб 10</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/fc262ebab4251f5368cf8e15e4b71a1e.jpg</i><b>при5 кгб 11</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/4dde647af4a2c9b454f4f79628a19579.jpg</i><b>при5 кгб 12</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/4af1655a9d368b4af9bda35146b93b4f.jpg</i><b>при5 кгб 13</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/bdfd17c48e4c059c8847ec57714465c4.jpg</i><b>при5 кгб 14</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/460602c026b62fd9eec1a8bd7104c728.jpg</i><b>при5 кгб 15</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/1b8a70746ada57909f691e05e2441c72.jpg</i><b>при5 кгб 16</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/ddc064f3f1865fa52c535238d771c680.jpg</i><b>при5 кгб 17</b>');

@@ -1,0 +1,16 @@
+document.write('<i>https://imgbb.su/images/2022/02/07/270b7f9e56a82b70393f66f8753ea248.jpg</i><b>при5 книжный павильон 01</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/ba1e24d64ff2dd59247043f3394229d7.jpg</i><b>при5 книжный павильон 02</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/d16d8af096072c210d8be4386b2b2298.jpg</i><b>при5 книжный павильон 03</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/03c03718115c78c59f2edd15fad86864.jpg</i><b>при5 книжный павильон 04</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/8e9bb5d43bce3f76dacab86d52a216d8.jpg</i><b>при5 книжный павильон 05</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/33de7fbf4c675120a43cd87505d70b8d.jpg</i><b>при5 книжный павильон 06</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/02fda8dd4f1b64aea1099fd61d4350ba.jpg</i><b>при5 книжный павильон 07</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/23d6ae149eb4fa57a6b3c9de16302bdc.jpg</i><b>при5 книжный павильон 08</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/fe468d87811be76772e2cc349ec4cc48.jpg</i><b>при5 книжный павильон 09</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/b39089d9b9e876611ce3f1e76c95df8e.jpg</i><b>при5 книжный павильон 10</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/fbd06f8dd879899f712e9e7b09460254.jpg</i><b>при5 книжный павильон 11</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/aab44f51627c72056009090ecdbbe638.jpg</i><b>при5 книжный павильон 12</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/b43ea353a1badd71255c06bd4300eab9.jpg</i><b>при5 книжный павильон 13</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/f3df3b3e5c812aef99ab06eaed3c7832.jpg</i><b>при5 книжный павильон 14</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/cdf4015bcf1de2d69e4b4f93182c10d6.jpg</i><b>при5 книжный павильон до 01</b>');
+document.write('<i>https://imgbb.su/images/2022/02/07/46b97e32bb5a0ef2ffad947eca3f67b7.jpg</i><b>при5 книжный павильон до 02</b>');

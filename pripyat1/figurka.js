@@ -1,0 +1,11 @@
+document.write('<i>https://imgbb.su/images/2021/12/07/60dcc53c5babe88ebe1bb16636949cd7.jpg</i><b>при5 ленина фигурка 01</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/b075a0f0e308ce1d9e2d26bb150970c7.jpg</i><b>при5 ленина фигурка 02</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/6e925db28efdb7bd5a1c95fa192870cf.jpg</i><b>при5 ленина фигурка 03</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/39db185bbd60d7ca09b78b37c1c48a4b.jpg</i><b>при5 ленина фигурка 04</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/9dd3c237d41d0e4acbac927d56dfe799.jpg</i><b>при5 ленина фигурка 05</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/d401fef66148685f4cf1a776d06e2039.jpg</i><b>при5 ленина фигурка 06</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/c3f45a4f78c7207235641df92296eb12.jpg</i><b>при5 ленина фигурка 07</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/85c941cbc56d5dad3c45c8bbe9469557.jpg</i><b>при5 ленина фигурка 08</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/3e9827f5e685d8a65fae53b59dcb358d.jpg</i><b>при5 ленина фигурка до 01</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/25c3615f70978e4f301b4102dede1813.jpg</i><b>при5 ленина фигурка до 02 1977</b>');
+document.write('<i>https://imgbb.su/images/2021/12/07/6469cac423a8956095f3aa712957b7e3.jpg</i><b>при5 ленина фигурка до 03</b>');
