@@ -1,3 +1,5 @@
+document.write('<i>;text;1</i><b>&nbsp;&nbsp;&nbsp;Припять \n &nbsp;&nbsp;&nbsp;Автодром;y=1;fontSize=1000;</b>');
+document.write('<i>;text;1</i><b> ;y=1;time=100;</b>');
 document.write('<i>https://imgbb.su/images/2022/07/24/PRI5-AVTODROM-01f3432ccf53604f63.jpg</i><b>при5 автодром 01</b>');
 document.write('<i>https://imgbb.su/images/2022/07/24/PRI5-AVTODROM-02dd889fa621dbac61.jpg</i><b>при5 автодром 02</b>');
 document.write('<i>https://imgbb.su/images/2022/07/24/PRI5-AVTODROM-032e1686387fe21ed7.jpg</i><b>при5 автодром 03</b>');

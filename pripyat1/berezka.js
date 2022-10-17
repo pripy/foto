@@ -1,3 +1,5 @@
+document.write('<i>;text;1</i><b>&nbsp;&nbsp;&nbsp;Припять \n &nbsp;&nbsp;&nbsp;Березка;y=1;fontSize=1000;</b>');
+document.write('<i>;text;1</i><b> ;y=1;time=100;</b>');
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-010fea70ce7de331f9.jpg</i><b>при5 березка 01</b>');
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-02f988ec101d5c267f.jpg</i><b>при5 березка 02</b>');
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-0321d87c0b9386488e.jpg</i><b>при5 березка 03</b>');
@@ -27,6 +29,7 @@ document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-DO-033c42cfc6
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-DO-04f4247bb3c1c5b633.jpg</i><b>при5 березка до 04</b>');
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-DO-058749cda1845d09ab.jpg</i><b>при5 березка до 05</b>');
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-DO-06f71cc7e07cb50634.jpg</i><b>при5 березка до 06</b>');
+document.write('<i>https://imgbb.su/images/2022/08/17/PRI5-BEREZKA-DO-07d8492eb757ca4a6d.jpg</i><b>при5 березка до 07</b>');
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-LEV-0185a80fbe23724576.jpg</i><b>при5 березка лев 01</b>');
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-LEV-0214d80c4178624534.jpg</i><b>при5 березка лев 02</b>');
 document.write('<i>https://imgbb.su/images/2022/06/20/PRI5-BEREZKA-LEV-035c317df7ef275ef5.jpg</i><b>при5 березка лев 03</b>');

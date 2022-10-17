@@ -1,3 +1,5 @@
+document.write('<i>;text;1</i><b>&nbsp;&nbsp;&nbsp;Припять \n ГПТУ №8;y=1;fontSize=1000;</b>');
+document.write('<i>;text;1</i><b> ;y=1;time=100;</b>');
 document.write('<i>https://imgbb.su/images/2022/07/24/PRI5-GPTU8-DO-01bcd267481423e68f.jpg</i><b>при5 гпту8 до 01</b>');
 document.write('<i>https://imgbb.su/images/2022/07/24/PRI5-GPTU8-DO-025e101bd8b7fca117.jpg</i><b>при5 гпту8 до 02</b>');
 document.write('<i>https://imgbb.su/images/2022/07/24/PRI5-GPTU8-DO-031fcb203139f944ad.jpg</i><b>при5 гпту8 до 03</b>');

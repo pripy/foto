@@ -1,3 +1,5 @@
+document.write('<i>;text;1</i><b>&nbsp;&nbsp;&nbsp;Припять \n магазин "Гастроном";y=1;fontSize=1000;</b>');
+document.write('<i>;text;1</i><b> ;y=1;time=100;</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-01f7d9f511c9da658e.jpg</i><b>при5 гастроном 01</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-026809e9acd0696142.jpg</i><b>при5 гастроном 02</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-03669e09cae80ad1e4.jpg</i><b>при5 гастроном 03</b>');
@@ -22,6 +24,8 @@ document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-21f9323b03a
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-2228f6e48e26dbc590.jpg</i><b>при5 гастроном 22</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-23ff72321542b1d9fa.jpg</i><b>при5 гастроном 23</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-2492a3a4a99b5a5231.jpg</i><b>при5 гастроном 24</b>');
+document.write('<i>https://imgbb.su/images/2022/08/12/PRI5-GASTRONOM-25bf27f793866db122.jpg</i><b>при5 гастроном 25</b>');
+document.write('<i>https://imgbb.su/images/2022/08/12/PRI5-GASTRONOM-266fc6214759906c43.jpg</i><b>при5 гастроном 26</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-DO-01371470fafd78b877.jpg</i><b>при5 гастроном до 01</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-DO-0290064545a30055a9.jpg</i><b>при5 гастроном до 02</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-DO-03856bc0235421d11a.jpg</i><b>при5 гастроном до 03</b>');
@@ -60,3 +64,9 @@ document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-VKOD-074c1a
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-VKOD-08e6e748d106a36fbf.jpg</i><b>при5 гастроном вход 08</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-VKOD-09c06ec897e25dbd77.jpg</i><b>при5 гастроном вход 09</b>');
 document.write('<i>https://imgbb.su/images/2022/06/26/PRI5-GASTRONOM-VKOD-10f40df8a5c8b7d625.jpg</i><b>при5 гастроном вход 10</b>');
+document.write('<i>https://imgbb.su/images/2022/08/12/PRI5-GASTRONOM-VKOD-118c721293f3dfa335.jpg</i><b>при5 гастроном вход 11</b>');
+document.write('<i>https://imgbb.su/images/2022/08/12/PRI5-GASTRONOM-VKOD-12c027cef1e7948309.jpg</i><b>при5 гастроном вход 12</b>');
+document.write('<i>https://imgbb.su/images/2022/08/12/PRI5-GASTRONOM-VKOD-1381dd494709434445.jpg</i><b>при5 гастроном вход 13</b>');
+document.write('<i>https://imgbb.su/images/2022/08/12/PRI5-GASTRONOM-VKOD-14d0442498cecf983a.jpg</i><b>при5 гастроном вход 14</b>');
+document.write('<i>https://imgbb.su/images/2022/08/12/PRI5-GASTRONOM-VKOD-155ab23df1055a0f03.jpg</i><b>при5 гастроном вход 15</b>');
+document.write('<i>https://imgbb.su/images/2022/08/12/PRI5-GASTRONOM-VKOD-166bbddeef3aed1cd9.jpg</i><b>при5 гастроном вход 16</b>');
