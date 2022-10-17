@@ -1,0 +1,17 @@
+document.write('<i>https://eu.zonerama.com/photos/339227649_1200x1807_24.jpg</i><b>при5 кгб 01.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227646_1024x768_24.jpg</i> <b>при5 кгб 02.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227652_793x672_24.jpg</i>  <b>при5 кгб 03.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227647_1674x1080_24.jpg</i><b>при5 кгб 04.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227648_1200x900_24.jpg</i> <b>при5 кгб 05.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227669_1920x1080_24.jpg</i><b>при5 кгб 06.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227668_1920x1080_24.jpg</i><b>при5 кгб 07.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227665_1920x1080_24.jpg</i><b>при5 кгб 08.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227664_1920x1080_24.jpg</i><b>при5 кгб 09.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227667_1920x1080_24.jpg</i><b>при5 кгб 10.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227675_1920x1080_24.jpg</i><b>при5 кгб 11.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227686_1920x1080_24.jpg</i><b>при5 кгб 12.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227689_1920x1080_24.jpg</i><b>при5 кгб 13.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227699_1920x1080_24.jpg</i><b>при5 кгб 14.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227685_1280x853_24.jpg</i> <b>при5 кгб 15.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227679_1280x853_24.jpg</i> <b>при5 кгб 16.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/339227680_600x400_24.jpg</i>  <b>при5 кгб 17.jpg</b>');

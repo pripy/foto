@@ -1,0 +1,18 @@
+document.write('<i>https://eu.zonerama.com/photos/338381881_2048x1536_24.jpg</i><b>при5 детсад малыш 01.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381883_1280x960_24.jpg</i> <b>при5 детсад малыш 02.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381877_800x600_24.jpg</i>  <b>при5 детсад малыш 03.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381895_2560x1920_24.jpg</i><b>при5 детсад малыш 04.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381897_2560x1920_24.jpg</i><b>при5 детсад малыш 05.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381879_1280x960_24.jpg</i> <b>при5 детсад малыш 06.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381885_785x1080_24.jpg</i> <b>при5 детсад малыш 07.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381890_1280x720_24.jpg</i> <b>при5 детсад малыш 08.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381893_1280x720_24.jpg</i> <b>при5 детсад малыш 09.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381913_1920x1080_24.jpg</i><b>при5 детсад малыш 10.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381920_1920x1080_24.jpg</i><b>при5 детсад малыш 11.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381921_1920x1080_24.jpg</i><b>при5 детсад малыш 12.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381903_1818x1228_24.jpg</i><b>при5 детсад малыш 13.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381919_1818x1228_24.jpg</i><b>при5 детсад малыш 14.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381914_1920x1440_24.jpg</i><b>при5 детсад малыш 15.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381927_1280x853_24.jpg</i> <b>при5 детсад малыш 16.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381926_1024x768_24.jpg</i> <b>при5 детсад малыш 17.jpg</b>');
+document.write('<i>https://eu.zonerama.com/photos/338381931_1240x1754_24.jpg</i><b>при5 детсад малыш 18.jpg</b>');
