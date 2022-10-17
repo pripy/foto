@@ -1,3 +1,5 @@
+document.write('<i>;text;1</i><b>&nbsp;&nbsp;&nbsp;Припять \n магазин "Восход";y=1;fontSize=1000;</b>');
+document.write('<i>;text;1</i><b> ;y=1;time=100;</b>');
 document.write('<i>https://imgbb.su/images/2022/07/03/PRI5-VOSKOD-0149de38225360505d.jpg</i><b>при5 восход 01</b>');
 document.write('<i>https://imgbb.su/images/2022/07/03/PRI5-VOSKOD-02fe986b75ef243e69.jpg</i><b>при5 восход 02</b>');
 document.write('<i>https://imgbb.su/images/2022/07/03/PRI5-VOSKOD-03b4a54f264dbc490e.jpg</i><b>при5 восход 03</b>');
